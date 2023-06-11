@@ -7,7 +7,7 @@ export const PhonebookWrapper = styled.div`
 `;
 
 export const PhonebookTitle = styled.h1`
-  font-size: 38px;
+  font-size: 34px;
   font-weight: 700;
 `;
 

@@ -20,11 +20,11 @@ export const DeleteButton = styled.button`
   cursor: pointer;
   padding: 5px 10px;
   border-radius: 5px;
-  border: 2px solid red;
+  border: 2px solid #6fb0ed;
   background-color: transparent;
   &:hover,
   &:focus {
     color: #fff;
-    background-color: red;
+    background-color: #6fb0ed;
   }
 `;
