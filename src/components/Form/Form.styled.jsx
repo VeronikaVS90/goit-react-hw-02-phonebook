@@ -44,7 +44,7 @@ export const SubmitButton = styled.button`
   &:hover,
   &:focus {
     cursor: pointer;
-    background-color: gray;
+    background-color: #fed800;
     color: #fff;
   }
 `;
