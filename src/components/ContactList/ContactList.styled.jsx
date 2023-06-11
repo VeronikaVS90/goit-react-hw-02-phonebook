@@ -19,8 +19,8 @@ export const ConctactListItem = styled.li`
 export const DeleteButton = styled.button`
   cursor: pointer;
   padding: 5px 10px;
-  border-radius: 15px;
-  border: 1px solid red;
+  border-radius: 5px;
+  border: 2px solid red;
   background-color: transparent;
   &:hover,
   &:focus {
